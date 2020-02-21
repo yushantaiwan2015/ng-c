@@ -1,0 +1,2 @@
+# ng-c
+Công nhân
